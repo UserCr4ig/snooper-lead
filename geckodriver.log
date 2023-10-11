@@ -6882,3 +6882,5 @@ console.error: (new NetworkError("Network error: TypeError: NetworkError: Networ
 2023-09-16 22:57:11.618 firefox-bin[74476:1702431] Encountered exception, retrying: NSPortTimeoutException: Distributed objects message send timed out (timeout: 10716590605.611887 at time: 716590631.618216) 1
 2023-09-16 22:57:38.546 firefox-bin[74476:1702431] Encountered exception, retrying: NSPortTimeoutException: Distributed objects message send timed out (timeout: 10716590632.635885 at time: 716590658.545128) 1
 2023-09-16 22:58:05.487 firefox-bin[74476:1702431] Encountered exception, retrying: NSPortTimeoutException: Distributed objects message send timed out (timeout: 10716590659.565483 at time: 716590685.485238) 1
+2023-09-16 22:58:32.472 firefox-bin[74476:1702431] Encountered exception, retrying: NSPortTimeoutException: Distributed objects message send timed out (timeout: 10716590686.504213 at time: 716590712.467058) 1
+2023-09-16 22:58:33.475 firefox-bin[74476:1702431] Unable to clean up updater.
